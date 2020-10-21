@@ -431,6 +431,7 @@
                     <div class="tech-characteristics-item-td">Тип</div>
                     <div class="tech-characteristics-item-td">Вход с торца</div>
                   </div>
+                  
                   <div class="tech-characteristics-item-tr">
                     <div class="tech-characteristics-item-td">Габариты</div>
                     <div class="tech-characteristics-item-td">2,5 х 6 х 2,5 м</div>
